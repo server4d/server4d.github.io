@@ -1,1 +1,7 @@
 theme: jekyll-theme-leap-day
+name: Server4D
+markdown: kramdown
+title: Server4D
+description: Resources for 4D servers 
+show_downloads: false
+url: https://server4d.xyz 
