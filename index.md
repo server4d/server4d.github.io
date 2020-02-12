@@ -4,6 +4,8 @@ title: 4D Server Resources
 description: List of resources for 4D servers 
 ---
 
+<img src="{{site.baseurl}}/assets/img/tesseract.gif">
+
 # General Resources 
 
 [Join our Discord here](https://discord.gg/U7U4JPu)
