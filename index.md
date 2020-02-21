@@ -12,9 +12,10 @@ description: List of resources for 4D servers
 
 # Minecraft 
 
-| Address | Port | Info |
-|---------|------|------|
-| mc.server4d.xyz | 25565 | Currently not in use |
+| Address | Info |
+|---------|------|
+| mc.server4d.xyz | Minecraft 1.15.2 |
+| mc.al.server4d.xyz | Coming soon |
 
 # Screeps 
 
